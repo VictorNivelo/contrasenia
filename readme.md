@@ -18,3 +18,16 @@ Componente moderno de entrada de contraseña desarrollado con React, que incluye
 - CSS3 Moderno
 - Font Awesome 6
 - Babel (Compilación JSX)
+
+## Uso
+
+Instalar http-server globalmente
+
+```bash
+npm install -g http-server
+```
+
+Iniciar el servidor
+```bash
+http-server
+```
